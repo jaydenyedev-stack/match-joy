@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+.idea/
+.buildozer/
+bin/
+build/
+
+.venv/
+venv/
+env/
+
+*.log
